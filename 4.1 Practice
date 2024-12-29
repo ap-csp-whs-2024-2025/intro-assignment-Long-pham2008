@@ -1,0 +1,9 @@
+int main ()
+{
+ int myAge = 16;
+ bool havepet = false;
+ int grade = 11;
+
+ Return 0;
+}
+
