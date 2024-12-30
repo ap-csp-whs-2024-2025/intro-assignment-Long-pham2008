@@ -1,9 +1,9 @@
-int main ()
-{
- int myAge = 16;
- bool havepet = false;
- int grade = 11;
-
- Return 0;
+int main()
+{ 
+  int num1 = 5;
+  bool isRaining = false;
+  std::cout << (num1 > 0) && isRaining << std::endl;
+  std::cout << (num1 > 0) || isRaining << std::endl;
+  std::cout << !isRaining;
+  return 0;
 }
-
